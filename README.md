@@ -1,2 +1,3 @@
 # advanced-python-workshop
-Repository for the advanced Python workshop
+Workshop about advanced python patterns, and their real life usability spectrums.
+
