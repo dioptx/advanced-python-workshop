@@ -1,10 +1,5 @@
 # advanced-python-workshop
-Workshop about advanced python patterns, and their real 
-life usability spectrums.
-
-
-
-
+Workshop about advanced python patterns, and their real life usability spectrum.
 
 ### References:
 - [James Powell: So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
